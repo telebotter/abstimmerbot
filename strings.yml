@@ -1,0 +1,3 @@
+start: "Moin! Ich kann noch garnichts..."
+help: "gibts nicht"
+firstvote: "Erstelle erstes Voting. Wenn noch kein setup vorliegt wird dies als default gespeichert... kann mit /setup geändert werden"
